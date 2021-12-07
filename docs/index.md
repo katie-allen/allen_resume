@@ -2,7 +2,7 @@
 layout: cv
 title: Katie Allen's Resume
 ---
-# Katie Allen
+# Bob Allen
 Data Science Professor at BYU-Idaho.
 
 <div id="webaddress">
